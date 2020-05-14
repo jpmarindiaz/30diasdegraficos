@@ -17,7 +17,7 @@ x <- x %>%
 x$location[x$location == "North Santander"] <- "Norte de Santander"
 x$location[x$location == "Narino"] <- "Nariño"
 x$location[x$location == "Bogota"] <- "Bogotá"
-x$location[x$location == "Boyacá"] <- "Boyacá"
+x$location[x$location == "Boyaca"] <- "Boyacá"
 x$location[x$location == "Quindío"] <- "Quindio"
 x$location[x$location == "Cordoba"] <- "Córdoba"
 x$location[x$location == "Atlantico"] <- "Atlántico"
