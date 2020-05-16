@@ -7,6 +7,18 @@ Gráficos por [jpmarindiaz](http://twitter.com/jpmarindiaz) para el [desafío](h
 
 ![](scripts/2020-05-12/atenidos.png)
 
+## 2020-05-13 Corte Suprema
+
+![](scripts/2020-05-13/corte-suprema.png)
+
+## 2020-05-14 
+
+![](scripts/2020-05-14/goles-maradona.png)
+
+## 2020-05-15
+
+![](scripts/2020-05-15/covid-bogota.png)
+
 
 
 
